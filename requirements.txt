@@ -1,0 +1,14 @@
+datasets
+transformers
+torch
+accelerate
+bitsandbytes
+huggingface-hub
+peft
+trl
+deepeval
+pytest
+gdown
+pandas
+tqdm
+requests
